@@ -125,3 +125,5 @@ benchmark repository
 CI integration
 compare different AI agents
 skill version regression testing
+
+Use this file as reference: https://developers.openai.com/blog/eval-skills
